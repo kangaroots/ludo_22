@@ -26,7 +26,7 @@ An example game board can be seen in the following picture.  We have four positi
 * For C, start: 29 and end: 22.  
 * For D, start: 43 and end: 36.
 
-(Check the Ludoboard.png)
+<img src="Ludo_board_steps.jpg" width="500">
 
 In this project, you will also implement a **decision-making** algorithm for a player to choose a certain token to move.  With a given roll, if the player can’t move any token, or can only move one token (or if the two tokens are stacked), the player has no other choice.  If the player has two tokens on the board that can be moved, then player will use the following priority rules to decide which token to move:
 
